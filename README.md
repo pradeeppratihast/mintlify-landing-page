@@ -11,3 +11,4 @@ Run the command in your commmand terminal:
 git clone https://github.com/pradeeppratihast/mintlify-landing-page.git
 ```
 ## Screenshots
+<img width="1491" height="965" alt="Screenshot 2026-03-10 024621" src="./screenshot/Screenshot 2026-03-10 024621.png" />
